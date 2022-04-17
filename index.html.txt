@@ -4,7 +4,7 @@ git chec<!DOCTYPE html>
     <meta charset='utf-8'>
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
 <<<<<<< HEAD
-    <title>Смарт-Экспресс — оффициальный сайт</title>
+    <title>Смарт-Экспресс — опять оффициальный сайт</title>
 =======
     <title>Смарт-Экспресс — в разработке</title>
 >>>>>>> master
