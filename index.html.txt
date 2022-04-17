@@ -1,9 +1,9 @@
-<!DOCTYPE html>
+git chec<!DOCTYPE html>
 <html>
 <head>
     <meta charset='utf-8'>
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-    <title>Смарт-Экспресс — офф.сайт</title>
+    <title>Смарт-Экспресс — в разработке</title>
     <div>Звоните нам  по тел.: +7 909 999-99-99</div>
     <div>Звоните нам  по тел.: +7 909 999-99-99</div>
     <div>Звоните нам  по тел.: +7 909 999-99-99</div>
