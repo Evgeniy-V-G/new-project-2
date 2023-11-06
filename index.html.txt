@@ -1,0 +1,30 @@
+git chec<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+<<<<<<< HEAD
+    <title>Смарт-Экспресс — опять оффициальный сайт</title>
+=======
+    <title>Смарт-Экспресс — в разработке</title>
+>>>>>>> master
+    <div>Звоните нам  по тел.: +7 909 999-99-99</div>
+    <div>Звоните нам  по тел.: +7 909 999-99-99</div>
+    <div>Звоните нам  по тел.: +7 909 999-99-99</div>
+    <div>Звоните нам  по тел.: +7 909 999-99-99</div>
+    <div>Звоните нам  по тел.: +7 909 999-99-99</div>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <script src='js/jquery-3.6.0.min.js'></script>
+</head>
+<body>
+    <header>
+        <nav>
+            <a href="#services">Услуги</a>
+        </nav>
+        <div>
+            <a href="tel:+79039059588">+7 903 905-95-88</a>
+            <button>Заказать звонок</button>
+        </div>
+    </header>
+</body>
+</html>
